@@ -1,0 +1,19 @@
+{
+  "name": "serverless-tutorial-azure",
+  "version": "1.0.0",
+  "description": "Azure Functions sample for the Serverless framework",
+  "scripts": {
+    "start": "func start"
+  },
+  "keywords": [
+    "azure",
+    "serverless"
+  ],
+  "dependencies": {
+    "@azure/storage-blob": "^12.9.0",
+    "@azure/storage-queue": "^12.8.0"
+  },
+  "devDependencies": {
+
+  }
+}
